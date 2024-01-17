@@ -1,0 +1,1 @@
+{"name":"Local: problem6","url":"d:\\Programming\\program\\Extra\\function & pointer\\Function_&_Pointer\\problem6.c","tests":[{"id":1705478458076,"input":"5\n1 5 4 10 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\program\\Extra\\function & pointer\\Function_&_Pointer\\problem6.c","group":"local","local":true}
